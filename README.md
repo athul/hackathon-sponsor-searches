@@ -1,6 +1,6 @@
 # my-sponsor-searches
 Nah...Just them links whom I would contact for a Hackathon
-- https://www.gitkraken.com/contact
+- https://www.gitkraken.com/contact //Not for India
 - https://get.tech/hackathons
 - https://balsamiq.com/givingback/sponsorships/apply/
 - https://www.python.org/psf/grants/

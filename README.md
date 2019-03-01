@@ -1,5 +1,5 @@
-# Awesome Hackathon Sponsorships
-### Nah...Just the links whom I would contact for a Hackathon     
+<h1 align="center"> Awesome Hackathon Sponsorships</h1>
+### Just the links whom I would contact for a Hackathon     
 Sponsor|Specification
 -------|------
 Github:octocat:|Contact your Local Campus Expert :triangular_flag_on_post:

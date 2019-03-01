@@ -1,4 +1,4 @@
-# Awesome Hackathon Sponsorships
+# Awesome Hackathon Sponsorships.
 ### Just the links whom I would contact for a Hackathon     
 Sponsor|Specification
 -------|------

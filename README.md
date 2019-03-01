@@ -1,4 +1,4 @@
-<h1 align="center"> Awesome Hackathon Sponsorships</h1>
+# Awesome Hackathon Sponsorships
 ### Just the links whom I would contact for a Hackathon     
 Sponsor|Specification
 -------|------

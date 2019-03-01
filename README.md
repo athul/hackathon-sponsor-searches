@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-# Awesome Hackathon Sponsorships.
-=======
-<h1 align="center"> Awesome Hackathon Sponsorships
-[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)</h1>
->>>>>>> 4a015d6468f043485c0f72672905e6302a00bc3f
 ### Just the links whom I would contact for a Hackathon     
 Sponsor|Specification
 -------|------

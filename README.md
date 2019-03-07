@@ -1,4 +1,5 @@
 # Hackathon Sponsors
+:star2: if you've found this useful
 ### Just the links whom I would contact for a Hackathon     
 Sponsor|Specification
 -------|------

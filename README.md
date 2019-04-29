@@ -3,7 +3,7 @@
 ### Just the links whom I would contact for a Hackathon     
 Sponsor|Specification
 -------|------
-Github:octocat:|Contact your Local Campus Expert :triangular_flag_on_post:
+Github:octocat:|Contact your Local Campus Expert :triangular_flag_on_post:[use the form here](https://airtable.com/shrjNunEV6tC0SXqY) 
 [GitKraken](https://www.gitkraken.com/contact)|Not for India  
 DigitalOcean|Mail them the Details to sponsorship@digitalocean.com
 [.Tech](https://get.tech/hackathons) | ---

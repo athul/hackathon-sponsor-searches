@@ -16,6 +16,6 @@ DigitalOcean|Mail them the Details to sponsorship@digitalocean.com
  [Hasura](https://hasura.io/community)|---
  [GitLab](https://about.gitlab.com/community/sponsorship/)|---
  [StickerMule](https://www.stickermule.com/support/will-you-sponsor-my-organization)|Stickers
- [JetBrains](https://www.jetbrains.com/community/support/sponsorship_request.html)|---
+ [JetBrains](https://www.jetbrains.com/community/support/sponsorship_request.html)|Stickers
  [Creative Tim](https://www.creative-tim.com/sponsorships)|---
 [Shopify](https://www.shopify.in/sponsorships)|---

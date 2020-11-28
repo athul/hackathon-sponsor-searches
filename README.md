@@ -19,3 +19,9 @@ DigitalOcean|Mail them the Details to sponsorship@digitalocean.com
  [JetBrains](https://www.jetbrains.com/community/support/sponsorship_request.html)|Stickers
  [Creative Tim](https://www.creative-tim.com/sponsorships)|---
 [Shopify](https://www.shopify.in/sponsorships)|---
+Matic Network (BVI) Ltd.| Mail the details to connect@matic.network
+echoAR | Mail the details to info@echoAR.xyz
+O'Reilly Media | Mail the details to partners@oreilly.com
+Atlassian | Mail the details to sponsorship@atlassian.com
+
+

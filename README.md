@@ -23,5 +23,5 @@ Matic Network (BVI) Ltd.| Mail the details to connect@matic.network
 echoAR | Mail the details to info@echoAR.xyz
 O'Reilly Media | Mail the details to partners@oreilly.com
 Atlassian | Mail the details to sponsorship@atlassian.com
-[replit](https://hackathon-sponsorship.util.repl.co/) | contact@repl.it
+[replit](https://hackathon-sponsorship.util.repl.co/) | hacker plan
 
